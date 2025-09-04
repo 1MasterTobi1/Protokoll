@@ -1,1 +1,3 @@
 Version=1.0.6.0
+PExe=https://raw.githubusercontent.com/1MasterTobi1/Protokoll/main/Protokoll.exe
+UExe=https://raw.githubusercontent.com/1MasterTobi1/Protokoll/main/Updater.exe
